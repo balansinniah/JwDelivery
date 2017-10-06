@@ -1,0 +1,17 @@
+C:\Users\bsinniah\Source\Repos\Nugets\EntityFramework.Core.Generic\EntityFramework.Core.Generic\bin\Debug\netcoreapp2.0\EntityFramework.Core.Generic.deps.json
+C:\Users\bsinniah\Source\Repos\Nugets\EntityFramework.Core.Generic\EntityFramework.Core.Generic\bin\Debug\netcoreapp2.0\EntityFramework.Core.Generic.dll
+C:\Users\bsinniah\Source\Repos\Nugets\EntityFramework.Core.Generic\EntityFramework.Core.Generic\obj\Debug\netcoreapp2.0\EntityFramework.Core.Generic.csprojResolveAssemblyReference.cache
+C:\Users\bsinniah\Source\Repos\Nugets\EntityFramework.Core.Generic\EntityFramework.Core.Generic\obj\Debug\netcoreapp2.0\EntityFramework.Core.Generic.csproj.CoreCompileInputs.cache
+C:\Users\bsinniah\Source\Repos\Nugets\EntityFramework.Core.Generic\EntityFramework.Core.Generic\obj\Debug\netcoreapp2.0\EntityFramework.Core.Generic.AssemblyInfoInputs.cache
+C:\Users\bsinniah\Source\Repos\Nugets\EntityFramework.Core.Generic\EntityFramework.Core.Generic\obj\Debug\netcoreapp2.0\EntityFramework.Core.Generic.AssemblyInfo.cs
+C:\Users\bsinniah\Source\Repos\Nugets\EntityFramework.Core.Generic\EntityFramework.Core.Generic\bin\Debug\netcoreapp2.0\EntityFramework.Core.Generic.pdb
+C:\Users\bsinniah\Source\Repos\Nugets\EntityFramework.Core.Generic\EntityFramework.Core.Generic\obj\Debug\netcoreapp2.0\EntityFramework.Core.Generic.dll
+C:\Users\bsinniah\Source\Repos\Nugets\EntityFramework.Core.Generic\EntityFramework.Core.Generic\obj\Debug\netcoreapp2.0\EntityFramework.Core.Generic.pdb
+C:\Users\bsinniah\Source\Repos\JwDelivery\JwDelivery.Logistics\EntityFramework.Core.Generic\EntityFramework.Core.Generic\bin\Debug\netcoreapp2.0\EntityFramework.Core.Generic.deps.json
+C:\Users\bsinniah\Source\Repos\JwDelivery\JwDelivery.Logistics\EntityFramework.Core.Generic\EntityFramework.Core.Generic\bin\Debug\netcoreapp2.0\EntityFramework.Core.Generic.dll
+C:\Users\bsinniah\Source\Repos\JwDelivery\JwDelivery.Logistics\EntityFramework.Core.Generic\EntityFramework.Core.Generic\bin\Debug\netcoreapp2.0\EntityFramework.Core.Generic.pdb
+C:\Users\bsinniah\Source\Repos\JwDelivery\JwDelivery.Logistics\EntityFramework.Core.Generic\EntityFramework.Core.Generic\obj\Debug\netcoreapp2.0\EntityFramework.Core.Generic.csproj.CoreCompileInputs.cache
+C:\Users\bsinniah\Source\Repos\JwDelivery\JwDelivery.Logistics\EntityFramework.Core.Generic\EntityFramework.Core.Generic\obj\Debug\netcoreapp2.0\EntityFramework.Core.Generic.AssemblyInfoInputs.cache
+C:\Users\bsinniah\Source\Repos\JwDelivery\JwDelivery.Logistics\EntityFramework.Core.Generic\EntityFramework.Core.Generic\obj\Debug\netcoreapp2.0\EntityFramework.Core.Generic.AssemblyInfo.cs
+C:\Users\bsinniah\Source\Repos\JwDelivery\JwDelivery.Logistics\EntityFramework.Core.Generic\EntityFramework.Core.Generic\obj\Debug\netcoreapp2.0\EntityFramework.Core.Generic.dll
+C:\Users\bsinniah\Source\Repos\JwDelivery\JwDelivery.Logistics\EntityFramework.Core.Generic\EntityFramework.Core.Generic\obj\Debug\netcoreapp2.0\EntityFramework.Core.Generic.pdb

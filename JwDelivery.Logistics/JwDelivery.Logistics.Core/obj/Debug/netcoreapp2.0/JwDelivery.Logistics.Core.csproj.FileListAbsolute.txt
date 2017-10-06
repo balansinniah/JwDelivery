@@ -1,0 +1,9 @@
+C:\Users\bsinniah\Source\Repos\JwDelivery\JwDelivery.Logistics\JwDelivery.Logistics.Core\bin\Debug\netcoreapp2.0\JwDelivery.Logistics.Core.deps.json
+C:\Users\bsinniah\Source\Repos\JwDelivery\JwDelivery.Logistics\JwDelivery.Logistics.Core\bin\Debug\netcoreapp2.0\JwDelivery.Logistics.Core.dll
+C:\Users\bsinniah\Source\Repos\JwDelivery\JwDelivery.Logistics\JwDelivery.Logistics.Core\bin\Debug\netcoreapp2.0\JwDelivery.Logistics.Core.pdb
+C:\Users\bsinniah\Source\Repos\JwDelivery\JwDelivery.Logistics\JwDelivery.Logistics.Core\obj\Debug\netcoreapp2.0\JwDelivery.Logistics.Core.csprojResolveAssemblyReference.cache
+C:\Users\bsinniah\Source\Repos\JwDelivery\JwDelivery.Logistics\JwDelivery.Logistics.Core\obj\Debug\netcoreapp2.0\JwDelivery.Logistics.Core.csproj.CoreCompileInputs.cache
+C:\Users\bsinniah\Source\Repos\JwDelivery\JwDelivery.Logistics\JwDelivery.Logistics.Core\obj\Debug\netcoreapp2.0\JwDelivery.Logistics.Core.AssemblyInfoInputs.cache
+C:\Users\bsinniah\Source\Repos\JwDelivery\JwDelivery.Logistics\JwDelivery.Logistics.Core\obj\Debug\netcoreapp2.0\JwDelivery.Logistics.Core.AssemblyInfo.cs
+C:\Users\bsinniah\Source\Repos\JwDelivery\JwDelivery.Logistics\JwDelivery.Logistics.Core\obj\Debug\netcoreapp2.0\JwDelivery.Logistics.Core.dll
+C:\Users\bsinniah\Source\Repos\JwDelivery\JwDelivery.Logistics\JwDelivery.Logistics.Core\obj\Debug\netcoreapp2.0\JwDelivery.Logistics.Core.pdb

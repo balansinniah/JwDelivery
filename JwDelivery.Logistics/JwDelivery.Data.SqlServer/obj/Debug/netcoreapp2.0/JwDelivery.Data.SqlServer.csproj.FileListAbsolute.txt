@@ -1,0 +1,13 @@
+C:\Users\bsinniah\Source\Repos\JwDelivery\JwDelivery.Logistics\JwDelivery.Data.SqlServer\bin\Debug\netcoreapp2.0\JwDelivery.Data.SqlServer.deps.json
+C:\Users\bsinniah\Source\Repos\JwDelivery\JwDelivery.Logistics\JwDelivery.Data.SqlServer\bin\Debug\netcoreapp2.0\JwDelivery.Data.SqlServer.dll
+C:\Users\bsinniah\Source\Repos\JwDelivery\JwDelivery.Logistics\JwDelivery.Data.SqlServer\obj\Debug\netcoreapp2.0\JwDelivery.Data.SqlServer.csprojResolveAssemblyReference.cache
+C:\Users\bsinniah\Source\Repos\JwDelivery\JwDelivery.Logistics\JwDelivery.Data.SqlServer\obj\Debug\netcoreapp2.0\JwDelivery.Data.SqlServer.csproj.CoreCompileInputs.cache
+C:\Users\bsinniah\Source\Repos\JwDelivery\JwDelivery.Logistics\JwDelivery.Data.SqlServer\obj\Debug\netcoreapp2.0\JwDelivery.Data.SqlServer.AssemblyInfoInputs.cache
+C:\Users\bsinniah\Source\Repos\JwDelivery\JwDelivery.Logistics\JwDelivery.Data.SqlServer\obj\Debug\netcoreapp2.0\JwDelivery.Data.SqlServer.AssemblyInfo.cs
+C:\Users\bsinniah\Source\Repos\JwDelivery\JwDelivery.Logistics\JwDelivery.Data.SqlServer\bin\Debug\netcoreapp2.0\JwDelivery.Data.SqlServer.pdb
+C:\Users\bsinniah\Source\Repos\JwDelivery\JwDelivery.Logistics\JwDelivery.Data.SqlServer\bin\Debug\netcoreapp2.0\JwDelivery.Logistics.Core.dll
+C:\Users\bsinniah\Source\Repos\JwDelivery\JwDelivery.Logistics\JwDelivery.Data.SqlServer\bin\Debug\netcoreapp2.0\JwDelivery.Logistics.Core.pdb
+C:\Users\bsinniah\Source\Repos\JwDelivery\JwDelivery.Logistics\JwDelivery.Data.SqlServer\obj\Debug\netcoreapp2.0\JwDelivery.Data.SqlServer.dll
+C:\Users\bsinniah\Source\Repos\JwDelivery\JwDelivery.Logistics\JwDelivery.Data.SqlServer\obj\Debug\netcoreapp2.0\JwDelivery.Data.SqlServer.pdb
+C:\Users\bsinniah\Source\Repos\JwDelivery\JwDelivery.Logistics\JwDelivery.Data.SqlServer\bin\Debug\netcoreapp2.0\EntityFramework.Core.Generic.dll
+C:\Users\bsinniah\Source\Repos\JwDelivery\JwDelivery.Logistics\JwDelivery.Data.SqlServer\bin\Debug\netcoreapp2.0\EntityFramework.Core.Generic.pdb

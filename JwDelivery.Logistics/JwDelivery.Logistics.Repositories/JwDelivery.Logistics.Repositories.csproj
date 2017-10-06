@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\JwDelivery.Data.SqlServer\JwDelivery.Data.SqlServer.csproj" />
+    <ProjectReference Include="..\JwDelivery.Logistics.Core\JwDelivery.Logistics.Core.csproj" />
+  </ItemGroup>
+
+</Project>

@@ -1,0 +1,15 @@
+C:\Users\bsinniah\Source\Repos\JwDelivery\JwDelivery.Logistics\JwDelivery.Logistics.Repositories\bin\Debug\netcoreapp2.0\JwDelivery.Logistics.Repositories.deps.json
+C:\Users\bsinniah\Source\Repos\JwDelivery\JwDelivery.Logistics\JwDelivery.Logistics.Repositories\bin\Debug\netcoreapp2.0\JwDelivery.Logistics.Repositories.dll
+C:\Users\bsinniah\Source\Repos\JwDelivery\JwDelivery.Logistics\JwDelivery.Logistics.Repositories\bin\Debug\netcoreapp2.0\JwDelivery.Logistics.Repositories.pdb
+C:\Users\bsinniah\Source\Repos\JwDelivery\JwDelivery.Logistics\JwDelivery.Logistics.Repositories\bin\Debug\netcoreapp2.0\JwDelivery.Data.SqlServer.dll
+C:\Users\bsinniah\Source\Repos\JwDelivery\JwDelivery.Logistics\JwDelivery.Logistics.Repositories\bin\Debug\netcoreapp2.0\JwDelivery.Logistics.Core.dll
+C:\Users\bsinniah\Source\Repos\JwDelivery\JwDelivery.Logistics\JwDelivery.Logistics.Repositories\bin\Debug\netcoreapp2.0\JwDelivery.Data.SqlServer.pdb
+C:\Users\bsinniah\Source\Repos\JwDelivery\JwDelivery.Logistics\JwDelivery.Logistics.Repositories\bin\Debug\netcoreapp2.0\JwDelivery.Logistics.Core.pdb
+C:\Users\bsinniah\Source\Repos\JwDelivery\JwDelivery.Logistics\JwDelivery.Logistics.Repositories\obj\Debug\netcoreapp2.0\JwDelivery.Logistics.Repositories.csprojResolveAssemblyReference.cache
+C:\Users\bsinniah\Source\Repos\JwDelivery\JwDelivery.Logistics\JwDelivery.Logistics.Repositories\obj\Debug\netcoreapp2.0\JwDelivery.Logistics.Repositories.csproj.CoreCompileInputs.cache
+C:\Users\bsinniah\Source\Repos\JwDelivery\JwDelivery.Logistics\JwDelivery.Logistics.Repositories\obj\Debug\netcoreapp2.0\JwDelivery.Logistics.Repositories.AssemblyInfoInputs.cache
+C:\Users\bsinniah\Source\Repos\JwDelivery\JwDelivery.Logistics\JwDelivery.Logistics.Repositories\obj\Debug\netcoreapp2.0\JwDelivery.Logistics.Repositories.AssemblyInfo.cs
+C:\Users\bsinniah\Source\Repos\JwDelivery\JwDelivery.Logistics\JwDelivery.Logistics.Repositories\obj\Debug\netcoreapp2.0\JwDelivery.Logistics.Repositories.dll
+C:\Users\bsinniah\Source\Repos\JwDelivery\JwDelivery.Logistics\JwDelivery.Logistics.Repositories\obj\Debug\netcoreapp2.0\JwDelivery.Logistics.Repositories.pdb
+C:\Users\bsinniah\Source\Repos\JwDelivery\JwDelivery.Logistics\JwDelivery.Logistics.Repositories\bin\Debug\netcoreapp2.0\EntityFramework.Core.Generic.dll
+C:\Users\bsinniah\Source\Repos\JwDelivery\JwDelivery.Logistics\JwDelivery.Logistics.Repositories\bin\Debug\netcoreapp2.0\EntityFramework.Core.Generic.pdb

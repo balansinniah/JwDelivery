@@ -1,0 +1,18 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.0</TargetFramework>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+    <Description>Generic repository and unit of work pattern for Entity Framework Core</Description>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Folder Include="Pattern\Service\" />
+    <Folder Include="Pattern\Repository\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.EntityFrameworkCore" Version="2.0.0" />
+  </ItemGroup>
+
+</Project>
